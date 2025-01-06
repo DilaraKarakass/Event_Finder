@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Diğer boyutlar burada olabilir -->
+    <dimen name="recycler_view_item_spacing">16dp</dimen> <!-- Örnek boşluk değeri -->
+</resources>
+

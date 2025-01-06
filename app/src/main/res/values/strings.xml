@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google">Google</string>
+    <string name="your_web_client_id">294769362221-usbjudf9p6kqtit952ftr4br5btfmsa0.apps.googleusercontent.com</string>
+    <string name="buton_metni">Buton Metni</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyA6rp7RJY3iwX8AoX7XCAS70rnHfNmyvp8</string>
+
+
+
+</resources>

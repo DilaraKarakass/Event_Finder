@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_background">#F8B807</color>
+    <color name="button_back">#F0D483</color>
+    <color name="menu">#BAEDB4</color>
+    <color name="search">#FFFFFF</color>
+    <color name="kenar">#1B2C1A</color>
+    <color name="search_hint">#6D626262</color>
+    <color name="search_text">#6D000000</color>
+
+</resources>

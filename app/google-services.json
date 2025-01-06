@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "294769362221",
+    "firebase_url": "https://eventfinderapp-26e16-default-rtdb.firebaseio.com",
+    "project_id": "eventfinderapp-26e16",
+    "storage_bucket": "eventfinderapp-26e16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294769362221:android:fd39b545169946e302bfa4",
+        "android_client_info": {
+          "package_name": "com.example.eventsfinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294769362221-6sdcc9s5psrcf6im96d0autbe1r7cbj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventsfinderapp",
+            "certificate_hash": "5c76ecd81c8ac7f7b446119c48bd206fc2aa9308"
+          }
+        },
+        {
+          "client_id": "294769362221-usbjudf9p6kqtit952ftr4br5btfmsa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rp7RJY3iwX8AoX7XCAS70rnHfNmyvp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294769362221-usbjudf9p6kqtit952ftr4br5btfmsa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294769362221:android:0389e57d94d1193502bfa4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294769362221-st5o2o6a9fqeg67uqu94e2hitn3967ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "5c76ecd81c8ac7f7b446119c48bd206fc2aa9308"
+          }
+        },
+        {
+          "client_id": "294769362221-usbjudf9p6kqtit952ftr4br5btfmsa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rp7RJY3iwX8AoX7XCAS70rnHfNmyvp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294769362221-usbjudf9p6kqtit952ftr4br5btfmsa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
